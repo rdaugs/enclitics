@@ -5,7 +5,7 @@
 # fZM-modeling with random number seeds
 
 # The original script did not use random number seeds for the fZM-models - certainly, not the
-# best practice. The current script now includes them and, although the numbers are not 
+# best practice. The current script now includes them and, although the numbers may not be
 # identical down to the fourth or fifth decimal (which is doubtful to be linguistically
 # relevant anyway), it produces the exact same trends as reported in the published paper. The
 # overall findings thus appear to be quite robust.
